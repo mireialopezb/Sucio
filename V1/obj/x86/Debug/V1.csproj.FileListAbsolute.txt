@@ -1,0 +1,31 @@
+C:\Users\mirei\AppData\Local\Temporary Projects\V1\bin\Debug\V1.exe
+C:\Users\mirei\AppData\Local\Temporary Projects\V1\bin\Debug\V1.pdb
+C:\Users\mirei\AppData\Local\Temporary Projects\V1\obj\x86\Debug\V1.Form1.resources
+C:\Users\mirei\AppData\Local\Temporary Projects\V1\obj\x86\Debug\V1.Properties.Resources.resources
+C:\Users\mirei\AppData\Local\Temporary Projects\V1\obj\x86\Debug\V1.csproj.GenerateResource.Cache
+C:\Users\mirei\AppData\Local\Temporary Projects\V1\obj\x86\Debug\V1.exe
+C:\Users\mirei\AppData\Local\Temporary Projects\V1\obj\x86\Debug\V1.pdb
+C:\Users\mirei\OneDrive\Documents\UNI\2B\SO\Proyecto\V1\V1\obj\x86\Debug\V1.exe
+C:\Users\mirei\OneDrive\Documents\UNI\2B\SO\Proyecto\V1\V1\obj\x86\Debug\V1.pdb
+C:\Users\mirei\OneDrive\Documents\UNI\2B\SO\Proyecto\V1\V1\bin\Debug\V1.exe
+C:\Users\mirei\OneDrive\Documents\UNI\2B\SO\Proyecto\V1\V1\bin\Debug\V1.pdb
+C:\Users\mirei\OneDrive\Documents\UNI\2B\SO\Proyecto\V1\V1\obj\x86\Debug\V1.csprojResolveAssemblyReference.cache
+C:\Users\mirei\OneDrive\Documents\UNI\2B\SO\Proyecto\V1\V1\obj\x86\Debug\V1.Form1.resources
+C:\Users\mirei\OneDrive\Documents\UNI\2B\SO\Proyecto\V1\V1\obj\x86\Debug\V1.Properties.Resources.resources
+C:\Users\mirei\OneDrive\Documents\UNI\2B\SO\Proyecto\V1\V1\obj\x86\Debug\V1.csproj.GenerateResource.Cache
+C:\Users\T440s\Documents\IZAN\AA UNI\Cursos\Nueva carpeta\2º B\SO\Proyecto\Proyecto_SO\V1\obj\x86\Debug\V1.exe
+C:\Users\T440s\Documents\IZAN\AA UNI\Cursos\Nueva carpeta\2º B\SO\Proyecto\Proyecto_SO\V1\obj\x86\Debug\V1.pdb
+C:\Users\T440s\Documents\IZAN\AA UNI\Cursos\Nueva carpeta\2º B\SO\Proyecto\Proyecto_SO\V1\bin\Debug\V1.exe
+C:\Users\T440s\Documents\IZAN\AA UNI\Cursos\Nueva carpeta\2º B\SO\Proyecto\Proyecto_SO\V1\bin\Debug\V1.pdb
+C:\Users\T440s\Documents\IZAN\AA UNI\Cursos\Nueva carpeta\2º B\SO\Proyecto\Proyecto_SO\V1\obj\x86\Debug\V1.csprojResolveAssemblyReference.cache
+C:\Users\T440s\Documents\IZAN\AA UNI\Cursos\Nueva carpeta\2º B\SO\Proyecto\Proyecto_SO\V1\obj\x86\Debug\V1.Form1.resources
+C:\Users\T440s\Documents\IZAN\AA UNI\Cursos\Nueva carpeta\2º B\SO\Proyecto\Proyecto_SO\V1\obj\x86\Debug\V1.Properties.Resources.resources
+C:\Users\T440s\Documents\IZAN\AA UNI\Cursos\Nueva carpeta\2º B\SO\Proyecto\Proyecto_SO\V1\obj\x86\Debug\V1.csproj.GenerateResource.Cache
+C:\Users\mirei\OneDrive\Documents\UNI\2B\SO\Proyecto\Version_1\Proyecto_SO\V1\obj\x86\Debug\V1.exe
+C:\Users\mirei\OneDrive\Documents\UNI\2B\SO\Proyecto\Version_1\Proyecto_SO\V1\obj\x86\Debug\V1.pdb
+C:\Users\mirei\OneDrive\Documents\UNI\2B\SO\Proyecto\Version_1\Proyecto_SO\V1\obj\x86\Debug\V1.csprojResolveAssemblyReference.cache
+C:\Users\mirei\OneDrive\Documents\UNI\2B\SO\Proyecto\Version_1\Proyecto_SO\V1\obj\x86\Debug\V1.Form1.resources
+C:\Users\mirei\OneDrive\Documents\UNI\2B\SO\Proyecto\Version_1\Proyecto_SO\V1\obj\x86\Debug\V1.Properties.Resources.resources
+C:\Users\mirei\OneDrive\Documents\UNI\2B\SO\Proyecto\Version_1\Proyecto_SO\V1\obj\x86\Debug\V1.csproj.GenerateResource.Cache
+C:\Users\mirei\OneDrive\Documents\UNI\2B\SO\Proyecto\Version_1\Proyecto_SO\V1\bin\Debug\V1.exe
+C:\Users\mirei\OneDrive\Documents\UNI\2B\SO\Proyecto\Version_1\Proyecto_SO\V1\bin\Debug\V1.pdb
